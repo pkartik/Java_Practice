@@ -15,7 +15,7 @@ class Product{
     }
 }
 
-public class JavaStreamMapExample{
+public class JavaStreamProductPriceMap{
     public static void main(String[] args) {
 
         List<Product> productsList = new ArrayList<>();
